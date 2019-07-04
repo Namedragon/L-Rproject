@@ -35,5 +35,5 @@ def register(request):
         return render_json(code=errors.YZM_NUM_ERR)
 
 
-    
+
 
