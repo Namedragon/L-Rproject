@@ -46,7 +46,7 @@ jedi==0.14.0
 Jinja2==2.10.1
 jmespath==0.9.4
 kombu==4.6.3
-Mako==1.0.9
+Mako==1.2.2
 MarkupSafe==1.1.1
 mysqlclient==1.4.2.post1
 odfpy==1.4.0
